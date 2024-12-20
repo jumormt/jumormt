@@ -8,7 +8,7 @@
 
 
 
-<p> I am a Post-Doctoral Researcher at <a href="https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering">School of Computer Science and Engineering</a>, <a href="https://www.unsw.edu.au/homepage/">University of New South Wales (UNSW)</a>, working with Scientia Associate Professor <a href="https://yuleisui.github.io/">Yulei Sui</a>. My research focuses on enhancing software reliability and performance through program analysis and verification techniques. I am also interested in the synergy between artificial intelligence, particularly large language models, and program analysis and verification.
+<p> I am a Post-Doctoral Researcher at <a href="https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering">School of Computer Science and Engineering</a>, <a href="https://www.unsw.edu.au/homepage/">University of New South Wales (UNSW)</a>, working with Scientia Associate Professor <a href="https://yuleisui.github.io/">Yulei Sui</a>. My research lies at the intersection of programming languages and software engineering, with a particular focus on enhancing software reliability and performance through software analysis and verification techniques. I am also interested in the synergy between artificial intelligence, particularly large language models, and software engineering.
         If you have innovative ideas you'd like to share, please don't hesitate to reach out to me via xiao Dot cheng AT unsw Dot edu Dot au. For more information, please visit my <a href="https://jumormt.github.io/">personal homepage</a>.</p> 
         
 ###
